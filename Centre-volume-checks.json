@@ -1,0 +1,89 @@
+{
+  "centre_count": 243,
+  "complete_monthly_series": 233,
+  "monthly_records": 2886,
+  "country_peaks": {
+    "England": {
+      "month": "2026-03",
+      "England": 173511,
+      "Wales": 9870,
+      "England_Wales": 183381
+    },
+    "Wales": {
+      "month": "2026-03",
+      "England": 173511,
+      "Wales": 9870,
+      "England_Wales": 183381
+    },
+    "England_Wales": {
+      "month": "2026-03",
+      "England": 173511,
+      "Wales": 9870,
+      "England_Wales": 183381
+    }
+  },
+  "country_quietest": {
+    "England": {
+      "month": "2025-04",
+      "England": 126089,
+      "Wales": 6873,
+      "England_Wales": 132962
+    },
+    "Wales": {
+      "month": "2025-08",
+      "England": 127945,
+      "Wales": 6506,
+      "England_Wales": 134451
+    },
+    "England_Wales": {
+      "month": "2025-04",
+      "England": 126089,
+      "Wales": 6873,
+      "England_Wales": 132962
+    }
+  },
+  "examples": [
+    [
+      "Birmingham (Garretts Green)",
+      "22,480",
+      "February 2026 \u2014 2,352",
+      "April 2025 \u2014 1,337"
+    ],
+    [
+      "Goodmayes (London)",
+      "21,374",
+      "March 2026 \u2014 2,096",
+      "May 2025 \u2014 1,400"
+    ],
+    [
+      "Leicester (Wigston)",
+      "18,868",
+      "March 2026 \u2014 1,875",
+      "August 2025 \u2014 1,373"
+    ],
+    [
+      "Cardiff (Llanishen)",
+      "16,401",
+      "February 2026 \u2014 1,774",
+      "May 2025 \u2014 794"
+    ],
+    [
+      "Swansea",
+      "12,375",
+      "September 2025 \u2014 1,254",
+      "April 2025 \u2014 693"
+    ],
+    [
+      "Bala",
+      "607",
+      "June 2025 \u2014 73",
+      "August 2025 \u2014 29"
+    ],
+    [
+      "Pwllheli",
+      "737",
+      "July 2025 \u2014 71",
+      "January 2026 \u2014 54"
+    ]
+  ]
+}
